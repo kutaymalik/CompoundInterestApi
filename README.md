@@ -1,5 +1,3 @@
-# dotnetExampleApi
-
 # Compound Interest HW
 
 
